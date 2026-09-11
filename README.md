@@ -1,11 +1,11 @@
 # English for Hospitality
 
-A modern, multilingual English course for hotel and hospitality staff, designed by a native-English-teacher persona from Birmingham, UK. Built as a static web app — no build step, no backend required.
+A modern, multilingual English course for resort and hospitality staff, designed by a native-English-teacher persona from Birmingham, UK. Built as a static web app — no build step, no backend required.
 
 ## Highlights
 
-- **5 hotel departments**: Front Office, Housekeeping, Food & Beverage, Concierge & Bell Service, Bar & Lounge
-- **3 levels per department**: Beginner, Intermediate, Advanced (15 lessons total)
+- **11 resort departments**: Front Office, Housekeeping, Food & Beverage, Concierge & Bell Service, Bar & Lounge, Spa & Wellness, Pool & Recreation, Kids Club, Golf & Sports, Security & Safety, Banquet & Events
+- **3 levels per department**: Beginner, Intermediate, Advanced (33 lessons total)
 - **Listen & repeat**: every vocabulary word and dialogue line can be played aloud (browser text-to-speech, British English voice preferred) and practiced with the microphone (browser speech recognition gives instant pronunciation feedback)
 - **Pre-test & post-test**: each lesson opens with a short quiz to gauge prior knowledge, and closes with a matching quiz to measure improvement — scores and progress are saved locally in the browser
 - **5 interface languages**: Thai, English, Chinese, Japanese, Korean — switch anytime from the top bar
